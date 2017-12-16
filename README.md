@@ -1,6 +1,7 @@
 # INFORMATION:
-Romeo Goosens (10424458), Jorn Ranzijn (11138610) and Joe Harrison (11770430)
-romeogoosens94@gmail.com, jornranzijn@gmail.com, joeharrison1994@gmail.com
+- Romeo Goosens (10424458) romeogoosens94@gmail.com
+- Jorn Ranzijn (11138610)  jornranzijn@gmail.com 
+- Joe Harrison (11770430)  joeharrison1994@gmail.com
 
 # results
 This folder contains all our results. It is structered in the following way
