@@ -1,4 +1,4 @@
-INFORMATION:
+#INFORMATION:
 Romeo Goosens (10424458), Jorn Ranzijn (11138610) and Joe Harrison (11770430)
 romeogoosens94@gmail.com, jornranzijn@gmail.com, joeharrison1994@gmail.com
 
