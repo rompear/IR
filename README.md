@@ -40,6 +40,9 @@ This folder contains all our results. It is structered in the following way
 - lstsm.ipynb
 *Notebook with the LSTM implementation*
 
+- SEQ2SEQ.ipynb
+*Notebook with the SEQ2SEQ implementation*
+
 - plot_creator.ipynb 
 *Notebook that loads the loss and accuracy of the models to make plots for all the models*
 
