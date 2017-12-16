@@ -40,7 +40,7 @@ This folder contains all our results. It is structered in the following way
 - lstsm.ipynb
 *Notebook with the LSTM implementation*
 
-- SEQ2SEQ.ipynb
+- seq2seq.ipynb
 *Notebook with the SEQ2SEQ implementation*
 
 - plot_creator.ipynb 
