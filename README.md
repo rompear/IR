@@ -5,14 +5,22 @@ romeogoosens94@gmail.com, jornranzijn@gmail.com, joeharrison1994@gmail.com
 # results
 This folder contains all our results. It is structered in the following way
 ## results/
-- CBOW_EASY/ **baseline on easy model**
-- CBOW_HARD/ **baseline on hard model**
-- CBOW_PRE_EASY/ **CBOW on easy model**
-- CBOW_PRE_HARD/ **CBOW on hard model**
-- LSTM_PRE_EASY/ **LSTM on easy model**
-- LSTM_PRE_HARD/ **LSTM on hard model**
-- SEQ2SEQ_PRE_EASY/ **SEQ2SEQ on easy model**
-- SEQ2SEQ_PRE_HARD/ **SEQ2SEQ on hard model**
+- CBOW_EASY/ 
+*baseline on easy model*
+- CBOW_HARD/
+*baseline on hard model*
+- CBOW_PRE_EASY/
+*CBOW on easy model*
+- CBOW_PRE_HARD/
+*CBOW on hard model*
+- LSTM_PRE_EASY/
+*LSTM on easy model*
+- LSTM_PRE_HARD/
+*LSTM on hard model*
+- SEQ2SEQ_PRE_EASY/
+*SEQ2SEQ on easy model*
+- SEQ2SEQ_PRE_HARD/
+*SEQ2SEQ on hard model*
 
 ### All of the above folders contain corect and wrong image clssification / regression, structered as follows:
 - correct/
@@ -20,7 +28,7 @@ This folder contains all our results. It is structered in the following way
     top5/ images that are in the top 5
 - wrong/
     wrong images 
-    
+
 # Python Notebooks
 - baseline.ipynb
 "Notebook with the baseline approach"
