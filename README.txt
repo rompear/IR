@@ -3,10 +3,10 @@ Romeo Goosens (10424458), Jorn Ranzijn (11138610) and Joe Harrison (11770430)
 romeogoosens94@gmail.com, jornranzijn@gmail.com, joeharrison1994@gmail.com
 
 
-FILES:
--README.txt
-- results/
-"This folder contains all our results. It is structered in the following way"
+#FILES:
+## README.txt
+## results/
+    This folder contains all our results. It is structered in the following way
     - results/
         - CBOW_EASY/ [baseline on easy model]
         - CBOW_HARD/ [baseline on hard model]
