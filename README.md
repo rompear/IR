@@ -6,7 +6,9 @@ romeogoosens94@gmail.com, jornranzijn@gmail.com, joeharrison1994@gmail.com
 This folder contains all our results. It is structered in the following way
 ## results/
 - CBOW_EASY/ 
+
 *baseline on easy model*
+
 - CBOW_HARD/
 *baseline on hard model*
 - CBOW_PRE_EASY/
@@ -24,8 +26,8 @@ This folder contains all our results. It is structered in the following way
 
 ### All of the above folders contain corect and wrong image clssification / regression, structered as follows:
 - correct/
-    top1/ images that are in the top 1
-    top5/ images that are in the top 5
+top1/ images that are in the top 1
+top5/ images that are in the top 5
 - wrong/
     wrong images 
 
